@@ -33,6 +33,7 @@ public class FruitInfoUtil {
     }
 	
 	public static void main(String[] args) {
+		System.out.println(123);
 		FruitInfoUtil.getFruitInfo(Apple.class);
 	}
 }
